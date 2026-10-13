@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Streamline — Video Streaming Platform
 
 A small full-stack video streaming platform: Next.js frontend, Python (FastAPI) backend,
@@ -123,7 +122,7 @@ This project is designed to run on free hosting:
   add `limit`/`offset` for larger libraries.
 - Local disk storage is not persistent on most free hosts' ephemeral
   filesystems — use Supabase Storage for production deployments.
-=======
+
 # Streamline-Video-Platform
 A small full-stack video streaming platform: Next.js frontend, Python (FastAPI) backend, ffmpeg-based HLS transcoding (480p/720p/1080p adaptive bitrate), JWT auth with admin/user roles, and an admin dashboard with user activity analytics.
->>>>>>> main
+
